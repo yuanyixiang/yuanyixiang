@@ -20,7 +20,7 @@
 
 <td align="center" width="20%">
 <span><b><center>Redis</center></b></span> 
-<img height=60px src=""https://img.icons8.com/color/48/000000/redis.png"> 
+<img height=60px src="https://img.icons8.com/color/48/000000/redis.png"> 
 </td>
 
 <td align="center" width="20%">
@@ -32,7 +32,7 @@
 <tr>
 <td align="center" width="20%">
 <span><b><center>C</center></b></span> 
-<img height=65px src="<https://img.icons8.com/ios/50/000000/circled-c.png"> 
+<img height=65px src="https://img.icons8.com/ios/50/000000/circled-c.png"> 
 </td>
 
 <td align="center" width="20%">
