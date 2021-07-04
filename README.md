@@ -1,4 +1,9 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuanyixiang&show_icons=true&theme=radical)
+### 🛠 技术栈 | Tech Stack
+
+- 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
+- 🛢 &#160; ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+
 
 <!--
 **yuanyixiang/yuanyixiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
